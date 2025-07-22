@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.26.1",
+    "solmate": "^6.8.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.5",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.5.2"
+  }
+}
